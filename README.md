@@ -19,3 +19,6 @@ Cette base sera ensuite utilisée pour analyser le marché et aider les différe
 
 **Compétences**:
 
+-Création d'une base de données (modèle conceptuel, schéma relationnel, importation...)
+
+-Réalisation de requêtes SQL. 
